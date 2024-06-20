@@ -9,7 +9,6 @@ Welcome to the Slidely AI Frontend repository. This project contains the fronten
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Features
@@ -66,7 +65,7 @@ Contributions are always welcome! To get started:
 
 2. **Clone your fork:**
    ```sh
-   git clone https://github.com/your-username/slidely-ai-frontend.git
+   git clone https://github.com/SakethAraveti/slidely-ai-frontend.git
    ```
 
 3. **Create a branch:**
@@ -90,7 +89,7 @@ Contributions are always welcome! To get started:
 
 ## Contact
 
-If you have any questions or suggestions, please contact the repository owner at [saketharaveti11@gmail.com](mailto:saketharaveti11@gmail.com).
+If you have any questions or suggestions, feel free to contact the repository owner at [saketharaveti11@gmail.com](mailto:saketharaveti11@gmail.com).
 
 ---
 
