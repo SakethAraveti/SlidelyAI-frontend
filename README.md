@@ -31,11 +31,11 @@ To install and set up the project locally, follow these steps:
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/sreeja3232/slidely-ai-frontend.git
+   git clone https://github.com/SakethAraveti/SlidelyAI-frontend.git
    ```
 2. **Navigate to the project directory:**
    ```sh
-   cd slidely-ai-frontend
+   cd Slidely-AI-frontend
    ```
 3. **Open the solution file:**
    - Open the `.sln` file in Visual Studio.
@@ -65,7 +65,7 @@ Contributions are always welcome! To get started:
 
 2. **Clone your fork:**
    ```sh
-   git clone https://github.com/SakethAraveti/slidely-ai-frontend.git
+   git clone https://github.com/SakethAraveti/Slidely-AI-frontend.git
    ```
 
 3. **Create a branch:**
